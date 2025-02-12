@@ -33,4 +33,16 @@ A comprehensive system analysis and interface design project for a hospital mana
 ![Sketch Screenshot](./images/sketch-screenshot.png)
 
 ### Login Portal
-![HMS Login Portal](./images/sketch-screenshot.png)
+![HMS Login Portal](./images/Login-portal.png)
+
+### Dashboard Overview
+![Dashboard Overview](./images/Overview@3x.png)
+
+### Appointment Management
+![Appointment Management](./images/Appointment@3x.png)
+
+### Patient Management
+![Patient Management](./images/Patients@3x.png)
+
+### Patient Detail
+![Patient Detail](./images/Patient Detail@3x.png)
