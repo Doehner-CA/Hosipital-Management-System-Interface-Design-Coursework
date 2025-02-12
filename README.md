@@ -30,4 +30,7 @@ A comprehensive system analysis and interface design project for a hospital mana
 ## Project Demonstration
 
 ### Sketch Screenshot
-![Sketch Screenshot](./images/Sketch Screenshot.png)
+![Sketch Screenshot](./images/sketch-screenshot.png)
+
+### Login Portal
+![HMS Login Portal](./images/sketch-screenshot.png)
