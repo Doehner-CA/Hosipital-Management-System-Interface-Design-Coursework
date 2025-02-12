@@ -28,3 +28,6 @@ A comprehensive system analysis and interface design project for a hospital mana
 - Draw.io (System Analysis)
 
 ## Project Demonstration
+
+### Sketch Screenshot
+![Sketch Screenshot](./images/Sketch Screenshot.png)
