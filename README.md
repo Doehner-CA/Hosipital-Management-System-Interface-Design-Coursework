@@ -45,4 +45,13 @@ A comprehensive system analysis and interface design project for a hospital mana
 ![Patient Management](./images/Patients@3x.png)
 
 ### Patient Detail
-![Patient Detail](./images/Patient Detail@3x.png)
+![Patient Detail](./images/Patient-detail@3x.png)
+
+### Doctor Management
+![Doctor Management](./images/Doctor@3x.png)
+
+### Procedure Management
+![Procedure Management](./images/Procedures@3x.png)
+
+### Invoice Management (Manager Dashboard)
+![Invoice Management](./images/Invoice@3x.png)
